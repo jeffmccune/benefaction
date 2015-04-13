@@ -1,6 +1,6 @@
 (def ks-version "1.0.0")
-(def tk-version "1.0.0")
-(def tk-jetty9-version "1.0.0")
+(def tk-version "1.1.0")
+(def tk-jetty9-version "1.3.0")
 
 (defproject puppetlabs/benefaction "0.1.0-SNAPSHOT"
   :description "FIXME: write description"
